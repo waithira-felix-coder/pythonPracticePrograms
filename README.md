@@ -47,7 +47,7 @@ This repository contains a collection of Python practice programs, scripts, and 
 
 - This repository is for personal practice and experimentation.
 - Feel free to organize files into folders as the collection grows.
-- Update this README with new projects, descriptions, and running instructions over time.
+- Update the README with new projects, descriptions, and running instructions over time.
 
 ## Future Improvements
 
